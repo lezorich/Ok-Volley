@@ -28,7 +28,7 @@ StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
     }
 });
 
-manager.getRequestQueue().add(stringRequest)
+manager.getRequestQueue().add(stringRequest);
 ```
 
 
