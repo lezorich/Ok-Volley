@@ -2,8 +2,6 @@ package cl.lezorich.ok_volley.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.net.Uri;
-import android.util.Log;
 
 import com.google.gson.Gson;
 
